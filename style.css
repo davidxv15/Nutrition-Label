@@ -22,8 +22,7 @@ body {
   width: 270px;
   margin: 20px auto;
   padding: 0 7px;
-  /* background-color: coral; */
-  background-image: radial-gradient(circle, #5ffbf1, #46eefa, #41dfff, #52cffe, #69bff8, #69bff8, #69bff8, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+  background-color: coral;
 }
 
 header h1 {
